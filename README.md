@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 ## Two Pointers
@@ -119,6 +120,7 @@
 | [0136-single-number](https://github.com/ajaysai157/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ajaysai157/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ajaysai157/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
