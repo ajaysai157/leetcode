@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ajaysai157/leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -38,6 +39,7 @@
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Math
@@ -58,6 +61,7 @@
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 ## Two Pointers
@@ -90,6 +94,7 @@
 | [0035-search-insert-position](https://github.com/ajaysai157/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaysai157/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +126,7 @@
 | [0190-reverse-bits](https://github.com/ajaysai157/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ajaysai157/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
