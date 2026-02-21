@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ajaysai157/leetcode/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 ## Two Pointers
