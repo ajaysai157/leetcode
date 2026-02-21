@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajaysai157/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaysai157/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
@@ -41,6 +42,7 @@
 | [0009-palindrome-number](https://github.com/ajaysai157/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajaysai157/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
