@@ -79,6 +79,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaysai157/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ajaysai157/leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/ajaysai157/leetcode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ajaysai157/leetcode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
