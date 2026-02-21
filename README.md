@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaysai157/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0283-move-zeroes) |
@@ -28,12 +29,14 @@
 | [0001-two-sum](https://github.com/ajaysai157/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajaysai157/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajaysai157/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -82,6 +85,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaysai157/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ajaysai157/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ajaysai157/leetcode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
