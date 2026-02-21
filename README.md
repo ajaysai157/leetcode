@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/ajaysai157/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajaysai157/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 ## Two Pointers
@@ -60,6 +61,7 @@
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajaysai157/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ajaysai157/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
