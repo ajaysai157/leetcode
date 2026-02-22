@@ -68,6 +68,7 @@
 | [0326-power-of-three](https://github.com/ajaysai157/leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0020-valid-parentheses](https://github.com/ajaysai157/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/ajaysai157/leetcode/tree/master/0344-reverse-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
