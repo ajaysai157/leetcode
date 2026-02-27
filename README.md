@@ -141,6 +141,7 @@
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ajaysai157/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
