@@ -39,6 +39,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaysai157/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/ajaysai157/leetcode/tree/master/3637-trionic-array-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ajaysai157/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ajaysai157/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaysai157/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3692-majority-frequency-characters](https://github.com/ajaysai157/leetcode/tree/master/3692-majority-frequency-characters) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ajaysai157/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ajaysai157/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
 |  |
 | ------- |
