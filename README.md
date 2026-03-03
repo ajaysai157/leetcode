@@ -79,6 +79,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ajaysai157/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaysai157/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ajaysai157/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
