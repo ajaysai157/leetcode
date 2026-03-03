@@ -99,6 +99,7 @@
 | [0283-move-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ajaysai157/leetcode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/ajaysai157/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3692-majority-frequency-characters](https://github.com/ajaysai157/leetcode/tree/master/3692-majority-frequency-characters) |
+| [3794-reverse-string-prefix](https://github.com/ajaysai157/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
