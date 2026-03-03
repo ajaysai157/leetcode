@@ -35,6 +35,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ajaysai157/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajaysai157/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajaysai157/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
