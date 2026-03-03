@@ -36,6 +36,7 @@
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajaysai157/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ajaysai157/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ajaysai157/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/ajaysai157/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaysai157/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -161,6 +162,7 @@
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ajaysai157/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ajaysai157/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ajaysai157/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
