@@ -195,6 +195,7 @@
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ajaysai157/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ajaysai157/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ajaysai157/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ajaysai157/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
