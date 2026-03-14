@@ -38,6 +38,7 @@
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ajaysai157/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/ajaysai157/leetcode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
