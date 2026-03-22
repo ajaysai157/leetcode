@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/ajaysai157/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ajaysai157/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaysai157/leetcode/tree/master/0075-sort-colors) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
