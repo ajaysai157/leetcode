@@ -116,6 +116,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajaysai157/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajaysai157/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
