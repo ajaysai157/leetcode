@@ -163,6 +163,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1446-consecutive-characters](https://github.com/ajaysai157/leetcode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ajaysai157/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ajaysai157/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ajaysai157/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3692-majority-frequency-characters](https://github.com/ajaysai157/leetcode/tree/master/3692-majority-frequency-characters) |
