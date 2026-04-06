@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajaysai157/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ajaysai157/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ajaysai157/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -109,6 +110,7 @@
 | [0009-palindrome-number](https://github.com/ajaysai157/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajaysai157/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ajaysai157/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ajaysai157/leetcode/tree/master/0069-sqrtx) |
@@ -207,6 +209,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajaysai157/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
