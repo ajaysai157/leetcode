@@ -50,6 +50,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajaysai157/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ajaysai157/leetcode/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/ajaysai157/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1711-count-good-meals](https://github.com/ajaysai157/leetcode/tree/master/1711-count-good-meals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ajaysai157/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajaysai157/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -214,6 +215,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ajaysai157/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
