@@ -84,6 +84,7 @@
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajaysai157/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1711-count-good-meals](https://github.com/ajaysai157/leetcode/tree/master/1711-count-good-meals) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ajaysai157/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ajaysai157/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ajaysai157/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ajaysai157/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -170,6 +171,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1446-consecutive-characters](https://github.com/ajaysai157/leetcode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ajaysai157/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ajaysai157/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ajaysai157/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ajaysai157/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
