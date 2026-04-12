@@ -55,6 +55,7 @@
 | [1672-richest-customer-wealth](https://github.com/ajaysai157/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1711-count-good-meals](https://github.com/ajaysai157/leetcode/tree/master/1711-count-good-meals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ajaysai157/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/ajaysai157/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajaysai157/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/ajaysai157/leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ajaysai157/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -171,6 +172,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1446-consecutive-characters](https://github.com/ajaysai157/leetcode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/ajaysai157/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ajaysai157/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ajaysai157/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ajaysai157/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
