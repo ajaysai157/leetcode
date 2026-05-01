@@ -42,6 +42,7 @@
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -151,6 +152,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ajaysai157/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ajaysai157/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ajaysai157/leetcode/tree/master/0443-string-compression) |
+| [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajaysai157/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ajaysai157/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -221,6 +223,7 @@
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ajaysai157/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -237,6 +240,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ajaysai157/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ajaysai157/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ajaysai157/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ajaysai157/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ajaysai157/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -246,6 +250,7 @@
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ajaysai157/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
