@@ -54,6 +54,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ajaysai157/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ajaysai157/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1711-count-good-meals](https://github.com/ajaysai157/leetcode/tree/master/1711-count-good-meals) |
+| [1732-find-the-highest-altitude](https://github.com/ajaysai157/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ajaysai157/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/ajaysai157/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajaysai157/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ajaysai157/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ajaysai157/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/ajaysai157/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |
