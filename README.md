@@ -47,6 +47,7 @@
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ajaysai157/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ajaysai157/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ajaysai157/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajaysai157/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ajaysai157/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -131,6 +132,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ajaysai157/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajaysai157/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ajaysai157/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajaysai157/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
