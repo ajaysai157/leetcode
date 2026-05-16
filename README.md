@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ajaysai157/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ajaysai157/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ajaysai157/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajaysai157/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
@@ -103,6 +105,7 @@
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ajaysai157/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ajaysai157/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3692-majority-frequency-characters](https://github.com/ajaysai157/leetcode/tree/master/3692-majority-frequency-characters) |
