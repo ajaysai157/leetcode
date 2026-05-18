@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaysai157/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
@@ -87,6 +88,7 @@
 | [0001-two-sum](https://github.com/ajaysai157/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ajaysai157/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ajaysai157/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
@@ -238,6 +240,7 @@
 | [0048-rotate-image](https://github.com/ajaysai157/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ajaysai157/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
