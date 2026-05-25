@@ -48,6 +48,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ajaysai157/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajaysai157/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ajaysai157/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajaysai157/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ajaysai157/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -233,6 +234,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaysai157/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ajaysai157/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ajaysai157/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
