@@ -88,6 +88,7 @@
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/ajaysai157/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajaysai157/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaysai157/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ajaysai157/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ajaysai157/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/ajaysai157/leetcode/tree/master/3379-transformed-array) |
@@ -165,6 +166,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajaysai157/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaysai157/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajaysai157/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ajaysai157/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
