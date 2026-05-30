@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ajaysai157/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ajaysai157/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ajaysai157/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ajaysai157/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ajaysai157/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ajaysai157/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
