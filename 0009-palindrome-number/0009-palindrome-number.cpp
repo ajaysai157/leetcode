@@ -12,11 +12,6 @@ public:
             reverse=(reverse*10)+rem;
             temp/=10;
         }
-        if(x==reverse){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return x==reverse;
     }
 };
