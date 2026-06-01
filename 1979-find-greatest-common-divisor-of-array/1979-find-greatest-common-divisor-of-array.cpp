@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int gcd(int a,int b){
-        return (b==0)?a:gcd(b,a%b);
+    int gcdOfTwonumbers(int a,int b){
+        return (b==0)?a:gcdOfTwonumbers(b,a%b);
     }
     int findGCD(vector<int>& nums) {
         int min=INT_MAX,max=INT_MIN;
@@ -13,6 +13,6 @@ public:
                 min=num;
             }
         }
-        return gcd(min,max);
+        return gcdOfTwonumbers(min,max);
     }
 };
