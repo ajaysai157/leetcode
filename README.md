@@ -62,6 +62,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ajaysai157/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -255,6 +256,7 @@
 | [0704-binary-search](https://github.com/ajaysai157/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ajaysai157/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
