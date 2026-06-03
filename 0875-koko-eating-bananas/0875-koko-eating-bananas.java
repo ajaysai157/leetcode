@@ -1,10 +1,12 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int max = Arrays.stream(piles).max().getAsInt();
-        int left=1,right=max;
+        int left=1,right = Integer.MIN_VALUE;
+        for(int i=0;i<piles.length;i++){
+            right=Math.max(right,piles[i]);
+        }
         while(left<=right){
             int mid=left+(right-left)/2;
-            if(calHours(piles,mid)<=h){
+            if(calcHours(piles,mid,h)){
                 right=mid-1;
             }else{
                 left=mid+1;
@@ -12,11 +14,11 @@ class Solution {
         }
         return left;
     }
-    private long calHours(int[] arr,int hrs){
+    private boolean calcHours(int[] arr,int hrs,int h){
         long totalHrs=0;
         for(int i=0;i<arr.length;i++){
             totalHrs=totalHrs+(arr[i]+hrs-1)/hrs;
         }
-        return totalHrs;
+        return totalHrs<=h;
     }
 }
