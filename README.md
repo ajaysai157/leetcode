@@ -67,6 +67,7 @@
 | [0875-koko-eating-bananas](https://github.com/ajaysai157/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajaysai157/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ajaysai157/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajaysai157/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -259,6 +260,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajaysai157/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajaysai157/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajaysai157/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
