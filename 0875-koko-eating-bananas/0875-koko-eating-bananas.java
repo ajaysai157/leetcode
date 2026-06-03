@@ -6,7 +6,7 @@ class Solution {
         }
         while(left<=right){
             int mid=left+(right-left)/2;
-            if(calcHours(piles,mid,h)){
+            if(calcHours(piles,mid)<=h){
                 right=mid-1;
             }else{
                 left=mid+1;
@@ -14,11 +14,11 @@ class Solution {
         }
         return left;
     }
-    private boolean calcHours(int[] arr,int hrs,int h){
+    private long calcHours(int[] arr,int hrs){
         long totalHrs=0;
         for(int i=0;i<arr.length;i++){
             totalHrs=totalHrs+(arr[i]+hrs-1)/hrs;
         }
-        return totalHrs<=h;
+        return totalHrs;
     }
 }
