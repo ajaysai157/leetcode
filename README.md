@@ -80,6 +80,7 @@
 | [1470-shuffle-the-array](https://github.com/ajaysai157/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ajaysai157/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajaysai157/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ajaysai157/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/ajaysai157/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajaysai157/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/ajaysai157/leetcode/tree/master/1711-count-good-meals) |
@@ -265,6 +266,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajaysai157/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajaysai157/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajaysai157/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ajaysai157/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
