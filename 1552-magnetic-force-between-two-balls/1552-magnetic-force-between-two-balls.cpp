@@ -13,7 +13,7 @@ public:
 
     int maxDistance(vector<int>& position, int m) {
         sort(position.begin(),position.end());
-        int left=1,right=position[position.size()-1]-position[0];
+        int left=1,right=(position.back()-position[0])/(m-1);
         while(left<=right){
             int mid=left+(right-left)/2;
             if(possible(position,mid,m)){
