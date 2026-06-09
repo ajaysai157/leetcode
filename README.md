@@ -167,6 +167,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajaysai157/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ajaysai157/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ajaysai157/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ajaysai157/leetcode/tree/master/0012-integer-to-roman) |
@@ -384,11 +385,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajaysai157/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ajaysai157/leetcode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajaysai157/leetcode/tree/master/0002-add-two-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaysai157/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
