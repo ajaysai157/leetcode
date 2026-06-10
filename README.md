@@ -237,6 +237,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ajaysai157/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ajaysai157/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ajaysai157/leetcode/tree/master/0443-string-compression) |
+| [1021-remove-outermost-parentheses](https://github.com/ajaysai157/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajaysai157/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajaysai157/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1446-consecutive-characters](https://github.com/ajaysai157/leetcode/tree/master/1446-consecutive-characters) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajaysai157/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ajaysai157/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajaysai157/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Matrix
