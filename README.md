@@ -127,6 +127,7 @@
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ajaysai157/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ajaysai157/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajaysai157/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -154,6 +155,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ajaysai157/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ajaysai157/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajaysai157/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
@@ -236,6 +238,7 @@
 | [0058-length-of-last-word](https://github.com/ajaysai157/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ajaysai157/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ajaysai157/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ajaysai157/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajaysai157/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ajaysai157/leetcode/tree/master/0392-is-subsequence) |
