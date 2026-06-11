@@ -186,6 +186,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ajaysai157/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajaysai157/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ajaysai157/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/ajaysai157/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaysai157/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -244,6 +245,7 @@
 | [1768-merge-strings-alternately](https://github.com/ajaysai157/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/ajaysai157/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ajaysai157/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/ajaysai157/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ajaysai157/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ajaysai157/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ajaysai157/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -377,6 +379,7 @@
 | [0410-split-array-largest-sum](https://github.com/ajaysai157/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/ajaysai157/leetcode/tree/master/0605-can-place-flowers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajaysai157/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/ajaysai157/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
