@@ -209,6 +209,7 @@
 | [0011-container-with-most-water](https://github.com/ajaysai157/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ajaysai157/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ajaysai157/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ajaysai157/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajaysai157/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajaysai157/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajaysai157/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ajaysai157/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ajaysai157/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ajaysai157/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaysai157/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
