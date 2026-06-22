@@ -64,6 +64,7 @@
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ajaysai157/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/ajaysai157/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ajaysai157/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ajaysai157/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
@@ -480,6 +481,7 @@
 | [0410-split-array-largest-sum](https://github.com/ajaysai157/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ajaysai157/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/ajaysai157/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ajaysai157/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ajaysai157/leetcode/tree/master/1732-find-the-highest-altitude) |
