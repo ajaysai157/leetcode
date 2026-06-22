@@ -70,6 +70,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajaysai157/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ajaysai157/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/ajaysai157/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajaysai157/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -138,6 +139,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ajaysai157/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ajaysai157/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/ajaysai157/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajaysai157/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajaysai157/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -414,6 +416,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ajaysai157/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ajaysai157/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ajaysai157/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaysai157/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ajaysai157/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
