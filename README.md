@@ -75,6 +75,7 @@
 | [0904-fruit-into-baskets](https://github.com/ajaysai157/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/ajaysai157/leetcode/tree/master/0908-smallest-range-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ajaysai157/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajaysai157/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/ajaysai157/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ajaysai157/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -143,6 +144,7 @@
 | [0645-set-mismatch](https://github.com/ajaysai157/leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/ajaysai157/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajaysai157/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ajaysai157/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ajaysai157/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajaysai157/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/ajaysai157/leetcode/tree/master/1711-count-good-meals) |
@@ -402,6 +404,7 @@
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajaysai157/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ajaysai157/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ajaysai157/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ajaysai157/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ajaysai157/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3692-majority-frequency-characters](https://github.com/ajaysai157/leetcode/tree/master/3692-majority-frequency-characters) |
@@ -424,6 +427,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ajaysai157/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ajaysai157/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ajaysai157/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ajaysai157/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaysai157/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ajaysai157/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
