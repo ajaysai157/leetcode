@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajaysai157/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ajaysai157/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ajaysai157/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ajaysai157/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
@@ -221,6 +222,7 @@
 | [0027-remove-element](https://github.com/ajaysai157/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajaysai157/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ajaysai157/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ajaysai157/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ajaysai157/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajaysai157/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ajaysai157/leetcode/tree/master/0125-valid-palindrome) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajaysai157/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ajaysai157/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ajaysai157/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ajaysai157/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ajaysai157/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -337,6 +340,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajaysai157/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ajaysai157/leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/ajaysai157/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajaysai157/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ajaysai157/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -511,4 +515,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ajaysai157/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ajaysai157/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
