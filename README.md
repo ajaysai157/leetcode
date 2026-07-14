@@ -201,6 +201,7 @@
 | [0069-sqrtx](https://github.com/ajaysai157/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ajaysai157/leetcode/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/ajaysai157/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -401,6 +402,7 @@
 | [0054-spiral-matrix](https://github.com/ajaysai157/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ajaysai157/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/ajaysai157/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ajaysai157/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ajaysai157/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -483,6 +485,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaysai157/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajaysai157/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
