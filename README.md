@@ -205,6 +205,7 @@
 | [0204-count-primes](https://github.com/ajaysai157/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ajaysai157/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ajaysai157/leetcode/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/ajaysai157/leetcode/tree/master/0523-continuous-subarray-sum) |
