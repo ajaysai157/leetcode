@@ -41,6 +41,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaysai157/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ajaysai157/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ajaysai157/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajaysai157/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajaysai157/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ajaysai157/leetcode/tree/master/0217-contains-duplicate) |
@@ -201,6 +202,7 @@
 | [0069-sqrtx](https://github.com/ajaysai157/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ajaysai157/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ajaysai157/leetcode/tree/master/0268-missing-number) |
@@ -486,6 +488,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ajaysai157/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajaysai157/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ajaysai157/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -493,6 +496,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ajaysai157/leetcode/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ajaysai157/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2951-find-the-peaks](https://github.com/ajaysai157/leetcode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajaysai157/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
