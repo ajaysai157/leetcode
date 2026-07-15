@@ -199,6 +199,7 @@
 | [0066-plus-one](https://github.com/ajaysai157/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ajaysai157/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ajaysai157/leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/ajaysai157/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ajaysai157/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ajaysai157/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ajaysai157/leetcode/tree/master/0258-add-digits) |
