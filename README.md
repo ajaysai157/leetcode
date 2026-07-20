@@ -114,6 +114,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaysai157/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/ajaysai157/leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ajaysai157/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/ajaysai157/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ajaysai157/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/ajaysai157/leetcode/tree/master/2951-find-the-peaks) |
@@ -188,6 +189,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/ajaysai157/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ajaysai157/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajaysai157/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ajaysai157/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajaysai157/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ajaysai157/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
@@ -264,6 +266,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajaysai157/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ajaysai157/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ajaysai157/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/ajaysai157/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -336,6 +339,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/ajaysai157/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/ajaysai157/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/ajaysai157/leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ajaysai157/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
