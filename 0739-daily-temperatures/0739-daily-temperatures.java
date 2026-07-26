@@ -1,8 +1,8 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         int n = temperatures.length;
-        Stack<Integer> st = new Stack<>();
-        int[] res = new int[n];
+        var st = new Stack<Integer>();
+        var res = new int[n];
         if(n==0){
             res[0]=0;
             return res;
